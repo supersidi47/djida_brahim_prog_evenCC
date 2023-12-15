@@ -1,0 +1,12 @@
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.vbproj.AssemblyReference.cache
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981_GLO.Form1.resources
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981_GLO.Resources.resources
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.vbproj.GenerateResource.cache
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.vbproj.CoreCompileInputs.cache
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\bin\Debug\djida_brahim_cc_prog_even_22T981-GLO.exe.config
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\bin\Debug\djida_brahim_cc_prog_even_22T981-GLO.exe
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\bin\Debug\djida_brahim_cc_prog_even_22T981-GLO.pdb
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\bin\Debug\djida_brahim_cc_prog_even_22T981-GLO.xml
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.exe
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.xml
+C:\Users\Djida\Desktop\dev\VB_CC\djida_brahim_cc_prog_even_22T981-GLO\djida_brahim_cc_prog_even_22T981-GLO\obj\Debug\djida_brahim_cc_prog_even_22T981-GLO.pdb
